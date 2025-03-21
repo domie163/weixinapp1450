@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#f06f4f",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "客服聊天添加",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
